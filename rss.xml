@@ -4,14 +4,21 @@
         <description><![CDATA[The Art of Erik Égon]]></description>
         <link>https://thegrid.ai/erikegon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 19:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 20:29:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/erikegon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[1st T-Shirt: Lady Death]]></title>
-            <description><![CDATA[<article><h1>1st T-Shirt: Lady Death</h1><p>My first trial illustrating a T-shirt. On my side I had two markers and not much of a planing. I just wanted to go with the flow and make a beautiful image. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c01d7edcb0bf6559e1cee9b5b0506f471cf66f5a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>1st T-Shirt: Lady Death</h1><p>My first trial illustrating a T-shirt. On my side I had two markers and not much of a planing. I just wanted to go with the flow and make a beautiful image. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e3d85a047a256318d8fa526a2b7cce6f12c2566.jpg"></article>]]></description>
             <link>https://thegrid.ai/erikegon/1st-t-shirt-lady-death/index.html</link>
             <guid isPermaLink="false">8d7032cb-fd19-474b-baad-071e4d773317</guid>
             <pubDate>Fri, 29 Jan 2016 19:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2nd T-Shirt: Delirium]]></title>
+            <description><![CDATA[<article><h1>2nd T-Shirt: Delirium</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b46d628e4540594ee5305bfee02c5b6a236dffb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/erikegon/2nd-t-shirt-delirium/index.html</link>
+            <guid isPermaLink="false">06a8e81b-197b-4762-a87f-b3312acaf78d</guid>
+            <pubDate>Fri, 29 Jan 2016 20:28:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
