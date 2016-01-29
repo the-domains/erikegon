@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Art of Erik Égon]]></title>
+        <description><![CDATA[The Art of Erik Égon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 19:21:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1st T-Shirt: Lady Death]]></title>
+            <description><![CDATA[<article><h1>1st T-Shirt: Lady Death</h1><p>My first trial illustrating a T-shirt. On my side I had two markers and not much of a planing. I just wanted to go with the flow and make a beautiful image. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a02aca0cb04392101044017cdf71db54ec2cca4.jpg"></article>]]></description>
+            <link>undefined1st-t-shirt-lady-death/index.html</link>
+            <guid isPermaLink="false">8d7032cb-fd19-474b-baad-071e4d773317</guid>
+            <pubDate>Fri, 29 Jan 2016 19:21:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
