@@ -1,6 +1,6 @@
 name: The Art of Erik Égon
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.90728
 typography_spectrum: 0.12302
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.6007618112489581
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
