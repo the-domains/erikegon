@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T19:21:23.337Z'
-dateModified: '2016-01-29T19:21:08.612Z'
+datePublished: '2016-01-29T19:25:05.485Z'
+dateModified: '2016-01-29T19:25:01.654Z'
 title: '1st T-Shirt: Lady Death'
 author: []
 authors: []
